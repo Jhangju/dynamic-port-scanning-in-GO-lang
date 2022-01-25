@@ -19,5 +19,5 @@ https://user-images.githubusercontent.com/83189731/150927606-d77350b3-d995-4165-
 
 
 </ol>
-  <small>If you want to build exe from Go lang code first install go lang and then use this command.</small><b> go build .\pscan.go</b>
+  <small>If you want to build exe from Go lang code first install go lang and then use this command.</small><b> go build .\pscan.go</b><hr>
   <b>Special thanks to booK:Black-Hat-Go_Go-Programming-For-Hackers-and-Pentesters</b>
