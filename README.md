@@ -14,6 +14,10 @@ This is CUSTOM tool for those who want to understand how port scanning works in 
   <li>If you want to increase the number of ports to scan change 	var maxportnumber = 1024 from <i>pscan.go</i> and rebuild the project.</li>
   <li>To scan specific port use .\single-port-scan.exe stackoverflow.com:443</li>
 
+
+https://user-images.githubusercontent.com/83189731/150927606-d77350b3-d995-4165-858b-de93450432a8.mp4
+
+
 </ol>
   
   <b>Special thanks to booK:Black-Hat-Go_Go-Programming-For-Hackers-and-Pentesters</b>
